@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "url": "./assets/img/card1.svg",
+        "category": "TOURISM",
+        "quote": "One of Saturn’s largest rings <br /> may be newer than anyone",
+        "by": "Rickie Baroch",
+        "date": "June 6, 2019",
+        "comment_count": 6,
+        "description": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    },
+    {
+        "id": 2,
+        "url": "./assets/img/card2.svg",
+        "category": "SPORT",
+        "quote": "One of Saturn’s largest rings <br /> may be newer than anyone",
+        "by": "Rickie Baroch",
+        "date": "June 6, 2019",
+        "comment_count": 6,
+        "description": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    },
+    {
+        "id": 3,
+        "url": "./assets/img/card3.svg",
+        "category": "FASHION",
+        "quote": "One of Saturn’s largest rings <br /> may be newer than anyone",
+        "by": "Rickie Baroch",
+        "date": "June 6, 2019",
+        "comment_count": 6,
+        "description": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    },
+    {
+        "id": 4,
+        "url": "./assets/img/card4.svg",
+        "category": "CLOTHES",
+        "quote": "One of Saturn’s largest rings <br /> may be newer than anyone",
+        "by": "Rickie Baroch",
+        "date": "June 6, 2019",
+        "comment_count": 6,
+        "description": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    },
+    {
+        "id": 5,
+        "url": "./assets/img/card5.svg",
+        "category": "CLOTHES",
+        "quote": "One of Saturn’s largest rings <br /> may be newer than anyone",
+        "by": "Rickie Baroch",
+        "date": "June 6, 2019",
+        "comment_count": 6,
+        "description": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    },
+    {
+        "id": 6,
+        "url": "./assets/img/card6.svg",
+        "category": "FASHION",
+        "quote": "One of Saturn’s largest rings <br /> may be newer than anyone",
+        "by": "Rickie Baroch",
+        "date": "June 6, 2019",
+        "comment_count": 6,
+        "description": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    },
+    {
+        "id": 7,
+        "url": "./assets/img/card7.svg",
+        "category": "SUMMER",
+        "quote": "One of Saturn’s largest rings <br /> may be newer than anyone",
+        "by": "Rickie Baroch",
+        "date": "June 6, 2019",
+        "comment_count": 6,
+        "description": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    },
+    {
+        "id": 8,
+        "url": "./assets/img/card8.svg",
+        "category": "AUTUMN",
+        "quote": "One of Saturn’s largest rings <br /> may be newer than anyone",
+        "by": "Rickie Baroch",
+        "date": "June 6, 2019",
+        "comment_count": 6,
+        "description": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    },
+    {
+        "id": 9,
+        "url": "./assets/img/card9.svg",
+        "category": "CLOTHES",
+        "quote": "One of Saturn’s largest rings <br /> may be newer than anyone",
+        "by": "Rickie Baroch",
+        "date": "June 6, 2019",
+        "comment_count": 6,
+        "description": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    },
+    {
+        "id": 10,
+        "url": "./assets/img/card10.svg",
+        "category": "SUMMER",
+        "quote": "One of Saturn’s largest rings <br /> may be newer than anyone",
+        "by": "Rickie Baroch",
+        "date": "June 6, 2019",
+        "comment_count": 6,
+        "description": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    },
+    {
+        "id": 11,
+        "url": "./assets/img/card11.svg",
+        "category": "SUMMER",
+        "quote": "One of Saturn’s largest rings <br /> may be newer than anyone",
+        "by": "Rickie Baroch",
+        "date": "June 6, 2019",
+        "comment_count": 6,
+        "description": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    }
+]
